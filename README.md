@@ -1,7 +1,7 @@
 # Simuolio
 # 投資組合策略模擬器（Portfolio Simulator）
 
-以 **Google Colab + ipywidgets** 實作的投資組合策略工具，提供：
+以 **[Google Colab](https://colab.research.google.com/) + ipywidgets** 實作的投資組合策略工具，提供：
 - 資產配置表（含再平衡建議）
 - 10 年回測波動率（年化）與週報酬相關性熱力圖
 - 可調參數的蒙地卡羅模擬（結果以 YYYY/MM 顯示）
